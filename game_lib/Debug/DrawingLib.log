@@ -1,0 +1,150 @@
+﻿  main.cpp
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(493,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(869,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(869,55): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(869,46): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(870,97): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(870,84): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(870,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1310,18): warning C4002: too many arguments for function-like macro invocation 'max'
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1199,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1200,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1202,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1203,21): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1309,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1311,27): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1311,22): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1341,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1341,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1341,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1341,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1341,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1341,25): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1342,55): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1342,49): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1342,43): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1342,37): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1342,31): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(1342,25): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(2005,46): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(2005,40): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(2005,34): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(2005,28): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=double
+          ]
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(2044,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shoco\source\repos\DrawingLib\GameEngine.h(2053,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(67,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(68,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(71,29): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(72,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(87,48): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(87,46): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(87,44): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(91,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(91,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(95,53): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(95,50): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(95,47): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(99,58): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(99,55): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(99,52): warning C4244: 'argument': conversion from 'float' to 'uint8_t', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(103,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(103,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(103,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(103,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(106,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(106,42): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(106,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(106,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(106,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(110,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(110,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(110,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(110,24): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(114,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(114,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(114,35): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(114,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(118,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(118,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(118,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(122,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(122,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(122,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(126,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(126,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(126,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(126,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(126,32): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(126,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(130,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(130,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(164,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(164,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(167,22): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(167,19): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\shoco\source\repos\DrawingLib\main.cpp(150): warning C4715: 'MyGame::get_key_number_lua': not all control paths return a value
+  DrawingLib.vcxproj -> C:\Users\shoco\source\repos\DrawingLib\Debug\DrawingLib.exe

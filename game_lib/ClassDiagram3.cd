@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="InterpreterLua" Collapsed="true">
+    <Position X="9" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gABQISAQBUiJIDBMgQSABCAJAQEQwACAAEBgBFSAAwA=</HashCode>
+      <FileName>main.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vector&lt;T&gt;" Collapsed="true">
+    <Position X="6.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gIAABAAgAAAQCIAAgAQIASAAgAAAAIACAUBgAQgSACA=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Matrix&lt;T&gt;" Collapsed="true">
+    <Position X="11" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAEAAAAAAAEARAQCACAACgACAAAAABAIACAAA=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AudioEngine" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <NestedTypes>
+      <Struct Name="AudioEngine::WAV_HEADER" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameEngine.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+      <Class Name="AudioEngine::AudioSample" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameEngine.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Class>
+      <Struct Name="AudioEngine::currently_playing_sample" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>GameEngine.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Struct>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>EBGAAAAGEBAAIAAAAAAAAAAAgQggCIoIAIAQAAgAQIM=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Texture" Collapsed="true">
+    <Position X="11" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEABAQAAAAAAgQWgQAAERAABEAAAAAAAAQIAAAAAAAA=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameEngine" Collapsed="true">
+    <Position X="9" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>qgdBiwQAb0QCCAAoBUAIYEA5GBBBAhRxAUoKACwBBAI=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Pixel" Collapsed="true">
+    <Position X="11" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Typedef Name="vec" Collapsed="true">
+    <Position X="6.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameEngine.h</FileName>
+    </TypeIdentifier>
+  </Typedef>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
